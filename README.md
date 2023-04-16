@@ -1,4 +1,4 @@
-# Wezl - A simple wezterm layout maanger for fish
+# Wezl - A simple wezterm layout manager for fish
 
 Introducing wezl, a powerful and user-friendly command for the WezTerm terminal emulator that simplifies the process of creating and managing terminal layouts. With an easy-to-understand syntax using just three symbols - `|`, `/`, and `=`, wezl enables you to create and configure multiple tabs and split panes in your terminal. Whether you want to spawn new windows, tabs, or apply layouts to your existing WezTerm session, `wezl` has got you covered. This versatile command also includes built-in shell completion and help documentation, ensuring a smooth user experience.
 
