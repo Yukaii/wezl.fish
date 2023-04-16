@@ -4,7 +4,7 @@ Introducing wezl, a powerful and user-friendly command for the WezTerm terminal 
 
 ## Demo
 
-[wezl_demo](./docs/media/wezl_demo.mp4)
+https://user-images.githubusercontent.com/4230968/232262544-508e2148-ef03-4b7c-853c-5a087d25ee23.mp4
 
 ## Usage
 
