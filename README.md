@@ -4,7 +4,7 @@ Introducing wezl, a powerful and user-friendly command for the WezTerm terminal 
 
 ## Demo
 
-![wezl_demo](./docs/media/wezl_demo.mp4)
+[wezl_demo](./docs/media/wezl_demo.mp4)
 
 ## Usage
 
